@@ -1,0 +1,6 @@
+{
+  "name": "Zoya",
+  "description": "AI virtual companion with real-time voice, animated audio visualizer, customizable personality, and interactive dialogue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
